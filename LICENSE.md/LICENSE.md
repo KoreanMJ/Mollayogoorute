@@ -1,0 +1,1 @@
+{"name": "Bot | Register Manager", "channel_id": "503060839532724236", "token": "b9MlFEqBjqea9rqqLn9LWT04oUvvH_oggbywByCca59F8KQ7l0qZNNgysVEBZb6ZadgI", "avatar": "3b8c3bd153ba0fd25ff41c7c5ae79a7b", "guild_id": "503048750026063883", "id": "503129478415908864"}
